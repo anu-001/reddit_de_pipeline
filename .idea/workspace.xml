@@ -4,21 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ea964e1e-df07-4a3e-9d5c-920f721222d1" name="Changes" comment="add pipeline for reddit posts with AWS services">
-      <change afterPath="$PROJECT_DIR$/.idea/RedditDE.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/config.conf.sample" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dags/reddit_dag.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/etls/aws_etl.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/etls/reddit_etl.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pipelines/aws_s3_pipeline.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pipelines/reddit_pipeline.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils/constants.py" afterDir="false" />
-    </list>
+    <list default="true" id="ea964e1e-df07-4a3e-9d5c-920f721222d1" name="Changes" comment="add pipeline for reddit posts with AWS services" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,6 +33,9 @@
   </component>
   <component name="MaliciousPackageCheckinHandlerState">
     <option name="packageCheck" value="true" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
@@ -88,8 +77,17 @@
       <option name="presentableId" value="Default" />
       <updated>1756439584284</updated>
       <workItem from="1756439585329" duration="11742000" />
-      <workItem from="1756453364238" duration="4256000" />
+      <workItem from="1756453364238" duration="4437000" />
     </task>
+    <task id="LOCAL-00001" summary="add pipeline for reddit posts with AWS services">
+      <option name="closed" value="true" />
+      <created>1756473353427</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1756473353427</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
